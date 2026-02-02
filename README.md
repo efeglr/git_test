@@ -1,1 +1,1 @@
-Hello Odin!# git_test
+Hello Odin! I'm trying to learn git right now!# git_test
